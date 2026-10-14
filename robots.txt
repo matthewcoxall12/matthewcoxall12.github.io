@@ -2,4 +2,4 @@ User-agent: *
 Allow: /Tubtime/
 Allow: /
 
-Sitemap: https://matthewcoxall12.github.io/sitemap.xml
+Sitemap: https://tubtime.app/sitemap.xml
