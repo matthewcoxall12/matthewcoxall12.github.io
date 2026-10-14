@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /Tubtime/
+Allow: /
+
+Sitemap: https://matthewcoxall12.github.io/sitemap.xml
